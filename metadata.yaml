@@ -13,6 +13,8 @@ covers:
 - cover_type: archival
   image_path: 39110-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39110#Phil-May-s-Gutter-Snipes
 gutenberg_issued: '2012-03-12'
 gutenberg_type: Text
 identifiers:
